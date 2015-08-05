@@ -81,7 +81,7 @@ namespace DimScreen
                 if (key == Keys.Add && modifier == KeyModifier.Control)
                 {
                     if (DimPercent == 100) return;
-                    DimPercent += 10;
+                    DimPercent += 5;
                     regkey.SetValue("DimAmount", DimPercent);
                 }
 
@@ -89,7 +89,7 @@ namespace DimScreen
                 if (key == Keys.Subtract && modifier == KeyModifier.Control)
                 {
                     if (DimPercent == 0) return;
-                    DimPercent -= 10;
+                    DimPercent -= 5;
                     regkey.SetValue("DimAmount", DimPercent);
 
                 }
@@ -152,12 +152,12 @@ namespace DimScreen
             menu20.Click += numericMenus_Click;
             menu30.Click += numericMenus_Click;
             menu40.Click += numericMenus_Click;
-            menu50.Click += numericMenus_Click;
-            menu60.Click += numericMenus_Click;
-            menu70.Click += numericMenus_Click;
-            menu80.Click += numericMenus_Click;
-            menu90.Click += numericMenus_Click;
-            menu100.Click += numericMenus_Click;
+            //menu50.Click += numericMenus_Click;
+            //menu60.Click += numericMenus_Click;
+            //menu70.Click += numericMenus_Click;
+            //menu80.Click += numericMenus_Click;
+            //menu90.Click += numericMenus_Click;
+            //menu100.Click += numericMenus_Click;
 
             // get command line values
             var arg = "";

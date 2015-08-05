@@ -7,3 +7,11 @@ C:\Users\Gentry\Desktop\DimScreen-master\DimScreen\DimScreen\obj\x86\Debug\DimSc
 C:\Users\Gentry\Desktop\DimScreen-master\DimScreen\DimScreen\obj\x86\Debug\DimScreen.exe
 C:\Users\Gentry\Desktop\DimScreen-master\DimScreen\DimScreen\obj\x86\Debug\DimScreen.pdb
 C:\Users\Gentry\Desktop\DimScreen-master\DimScreen\DimScreen\obj\x86\Debug\DimScreen.csprojResolveAssemblyReference.cache
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.exe
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.pdb
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\bin\Debug\DimScreen.exe
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\bin\Debug\DimScreen.pdb
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.frmMain.resources
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.frmTray.resources
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.Properties.Resources.resources
+D:\软件开发\GitMaster\DimScreen\DimScreen\DimScreen\obj\x86\Debug\DimScreen.csproj.GenerateResource.Cache
