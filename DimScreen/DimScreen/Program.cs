@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace DimScreen
 {
@@ -13,6 +14,10 @@ namespace DimScreen
         [STAThread]
         static void Main()
         {
+            Process[] p = Process.GetProcessesByName("DimScreen");
+            if (p.Length == 2)
+                Environment.Exit(Environment.ExitCode);
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmTray());
